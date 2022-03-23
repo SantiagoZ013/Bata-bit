@@ -1,0 +1,19 @@
+.main-table-container{
+    justify-content: center;
+    overflow: hidden;
+}
+.product-cards{
+    width: 930px;
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.plan-card{
+    height: 390px;
+}
+.plans-container{
+    justify-content: center;
+    overflow: hidden;
+}
+
